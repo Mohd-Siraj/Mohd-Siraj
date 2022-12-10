@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mohd-Siraj
+- 👀 I’m interested in Software engineering.
+- 🌱 I’m currently learning different programming languages. Although I know many of them.
+- 💞️ I’m looking to collaborate on software development projects.
+- 📫 Reach me at sirajmohd889@gmail.com
